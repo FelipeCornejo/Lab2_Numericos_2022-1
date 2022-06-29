@@ -1,0 +1,1 @@
+Para la utilización de las funciones y data, recordar añadir al PATH las folders y subfolders Data y Functions
